@@ -1,0 +1,22 @@
+{
+  "name": "baytemizel/validator",
+  "description": "An extend extension for validate with yaml files or custom data.",
+  "authors": [
+    {
+      "name": "Tayfun Temizel",
+      "email": "tayfun.temizel@bodevoffice.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Baytemizel\\Validator": "src/"
+    }
+  },
+  "require": {
+    "php" : ">=5.5.9",
+    "respect/validation": "^1.1",
+    "jms/serializer": "^1.6",
+    "jms/serializer-bundle": "^1.4",
+  }
+}

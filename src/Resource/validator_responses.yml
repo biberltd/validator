@@ -1,0 +1,81 @@
+"200.0000":
+  tr: "İşleminiz başarıyla tamamlanmıştır."
+  en: "Your request has been succesfully cleared."
+"404.0000":
+  tr: "? değeri girilmedi."
+  en: "? value must be."
+"404.0001":
+  tr: "? için geçerli parametre belirtilmelidir."
+  en: "? must give avaliable parameter."
+"500.0000":
+  tr: "Doğrulama yapılmadı."
+  en: "Validation didnt do"
+"500.0001":
+  tr: "Bu alan zorunludur."
+  en: "This field is required."
+"500.0002":
+  tr: "Geçersiz parametre girişi yapıldı."
+  en: "Invalid parameter is sent"
+"500.0003":
+  tr: "Geçersiz sorgu kriteri."
+  en: "Invalid query criteria"
+"500.0004":
+  tr: "Girmiş olduğunuz değer ? değerinden büyük olmalıdır."
+  en: "The value must higher than ?"
+"500.0005":
+  tr: "Girmiş olduğunuz değer ? değerinden küçük olmalıdır."
+  en: "The value must lower than ?"
+"500.0006":
+  tr: "Girmiş olduğunuz değer ? ile ? arasında olmalıdır."
+  en: "The value must be between ? and ?"
+"500.0007":
+  tr: "Girmiş olduğunuz değer ? ile ? arasında olmamalıdır."
+  en: "The value must not be between ? and ?"
+"500.0008":
+  tr: "Girmiş olduğunuz değer ? ile aynı olmalıdır."
+  en: "The value must be equal to ?"
+"500.0009":
+  tr: "Girmiş olduğunuz değer ? türünde olmalıdır."
+  en: "The value must be type of ?"
+"500.0010":
+  tr: "Girmiş olduğunuz değer ? uzunluğunda olmalıdır."
+  en: "The value must be length of ?"
+"500.0011":
+  tr: "Girmiş olduğunuz değer içerisinde ? alanı bulunmamalıdır."
+  en: "The value have to not contain ? field."
+"500.0012":
+  tr: "Girmiş olduğunuz değer içerisinde ? alanı bulunmalıdır."
+  en: "The value have to contain ? field"
+"510.0000":
+  tr: "Parola minimum ? haneden oluşmalıdır."
+  en: "Password's length must be ?"
+"510.0001":
+  tr: "Minimum 1 büyük harften oluşmalıdır."
+  en: "Must contain a uppercase letter"
+"510.0002":
+  tr: "Minimum 1 küçük harften oluşmalıdır."
+  en: "Must contain a lowercase letter"
+"510.0003":
+  tr: "Minimum 1 rakamdan oluşmalıdır."
+  en: "Must contain a digit"
+"510.0004":
+  tr: "Sıralı harf içermemelidir."
+  en: "Doesn't contain inline letters."
+"510.0005":
+  tr: "Sıralı rakam içermemelidir."
+  en: "Doesn't contain inline digits."
+"510.0006":
+  tr: "2 defadan fazla tekrar eden harf içermemelidir."
+  en: "Doesn't contain repeated letters more than 2."
+"510.0007":
+  tr: "2 defadan fazla tekrar eden rakam içermemelidir."
+  en: "Doesn't contain repeated digits more than 2."
+"510.0008":
+  tr: "Aynı harften maksimum 4 adet içermelidir."
+  en: "A letter can repeat 4 times."
+"510.0009":
+  tr: "Aynı rakamdan maksimum 4 adet içermelidir."
+  en: "A digit can repeat 4 times."
+"510.0010":
+  tr: "Girilen değerler aynı olmalıdır."
+  en: "The values must be same."

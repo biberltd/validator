@@ -1,0 +1,9 @@
+"412.0200":
+  tr: "Geçersiz veri girişi gerçekleştirildi."
+  en: "Invalid data."
+"412.0300":
+  tr: '"?" parametresi için hatalı bir değer gönderdiniz. Lütfen ilgili dokümantasonu okuyarak gerekli düzenlemeleri yapın.'
+  en: 'You have enterede an incorrect value for "?" parameter. Please read related documentation and make necessary corrections in your coding.'
+"412.0301":
+  tr: '"?" türünde bir obje göndermelisiniz. Lütfen gereki düzenlemeleri yapıp kodunuzu tekrar test ediniz.'
+  en: 'The provided object must be an instance of "?". Please make necessary corrections and test your code again.'
